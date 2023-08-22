@@ -1,16 +1,16 @@
 
-# 🚀 Olá, eu sou Reginaldo Leme 👋
+# 🚀 Olá, eu sou Reginaldo Leme / Hello, I am Reginaldo Leme👋
 
 Apaixonado por tecnologia, busco ser um profissional que agregue o máximo possível a equipe, me empenhando em adequirir conhecimento nas áreas de Metodologias Ágeis, Gestão, Banco de dados, Front-end, Back-end e, mais recentemente, Arquitetura e infraestruras em Cloud, este último, me especializando em AWS e GCP.
 
 Passionate about technology, I seek to be a professional who adds as much as possible to the team, striving to acquire knowledge in the areas of Agile Methodologies, Management, Database, Front-end, Back-end and, more recently, Cloud Architecture and Infrastructure , the latter, specializing in AWS and GCP.
 
 
-# Conecte-se comigo 
+# Conecte-se comigo / Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/reginaldoleme/) 
 
 
-# 🛠 Habilidades
+# 🛠 Habilidades / Skills
 
 ![HTML](https://img.shields.io/badge/HTML-red) 
 
